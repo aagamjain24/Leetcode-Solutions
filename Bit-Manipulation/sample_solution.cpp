@@ -1,9 +1,8 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <vector>
 
 class Solution {
 public:
-    int sampleFunction(vector<int>& nums) {
+    int sampleFunction(std::vector<int>& nums) {
         // TODO: Replace with problem-specific logic.
         return static_cast<int>(nums.size());
     }
