@@ -2,7 +2,7 @@
 
 class Solution {
 public:
-    int sampleFunction(std::vector<int>& nums) {
+    int solve(std::vector<int>& nums) {
         // TODO: Replace with problem-specific logic.
         return static_cast<int>(nums.size());
     }
